@@ -3,7 +3,7 @@
 
 Welcome to the **Rollercoaster Simulator**! This project is a thrilling ride through the world of virtual reality (VR) and 3D gaming, built using Unity. Experience the excitement of riding a rollercoaster with realistic physics, stunning visuals, and immersive gameplay.
 
-![Preview](./preview.mp4)
+![Preview]([./preview.mp4](https://github.com/madhurachanna/rollercoaster-unity/blob/main/preview.mp4))
 
 
 ## Features
